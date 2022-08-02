@@ -1,0 +1,22 @@
+{
+    "name": "nandorodpires/sendgrid",
+    "description": "Send emails with sendgrid API",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fernando Rodrigues",
+            "email": "nandorodpires@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "nandorodpires\\sendgrid\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.0",
+        "yiisoft/yii2": "~2.0.11",
+        "sendgrid/sendgrid": "~5.4"
+    }
+}
