@@ -1,5 +1,5 @@
 {
-    "name": "nandorodpires/sendgrid",
+    "name": "nandorodpires/yii2-sendgrid",
     "description": "Send emails with sendgrid API",
     "type": "yii2-extension",
     "license": "MIT",
