@@ -156,8 +156,8 @@ There are a few things left that I didn't get to:
 
 ---
 
-## Donate
+<!-- ## Donate
 
 Please consider donating if you find my code useful.
 
-[![PayPal Donate](https://i.ibb.co/YcM55mt/paypaldonate.png "Donate")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BEAUQFRMDPHT8&source=url)
+[![PayPal Donate](https://i.ibb.co/YcM55mt/paypaldonate.png "Donate")](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BEAUQFRMDPHT8&source=url) -->
